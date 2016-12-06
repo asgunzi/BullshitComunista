@@ -4,7 +4,7 @@ Gerador de Bullshit Comunista
 
 
 Bullshit comunista:
-https://s3-sa-east-1.amazonaws.com/ideiasesquecidas/BullshitComunista.html
+http://asgunzi.github.io/BullshitComunista/
 
 
 Acessar blog
@@ -29,6 +29,5 @@ Ex 2:  “Um espectro ronda a Europa – o espectro do comunismo, da mesma forma
 
  
 
- 
-
 Talvez haja algum maluco que veja sentido nisto, mas são frases que não pé nem cabeça.
+
